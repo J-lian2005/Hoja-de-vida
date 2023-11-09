@@ -1,0 +1,144 @@
+div { 
+    border-radius: 5px; 
+}
+
+#encabezado {
+    background-color: lightSkyBlue; 
+    width: 97%; 
+    height: 60px; 
+    border: 2px dotted lightblue; 
+    font-family: Times; 
+    margin-top: -20px; 
+    margin-bottom: 10px; 
+    box-shadow: 0px 1px 5px;
+}
+
+#Titulo { 
+    float: left; 
+    font-weight: bold; 
+    color: rgb(230, 230, 230); 
+    font-size: 1.5em; 
+    margin: 22px 10px 10px 10px; 
+}
+
+#Titulo:hover { 
+    color: white; 
+}
+
+.Foto {
+    width: 40%;
+    margin-bottom: 10px; 
+    border: 2px groove white;
+    box-shadow: 0px 1px 5px;
+}
+
+.imagen {
+    border-radius: 4px;
+    max-width: 100%;
+    height: 5%;
+    display: block;
+}
+
+.Info1 {
+    background-color: #f0f0f0; 
+    width: 50%; 
+    height: auto; 
+    margin-top: -30%; 
+    margin-bottom: 10px; 
+    margin-left: 45%;
+    border: 2px groove white;
+    box-shadow: 0px 1px 5px;
+}
+
+.contenido1 { 
+    margin: 10px; 
+}
+
+.Info2 { 
+    background-color: #f0f0f0; 
+    width: 100%; 
+    height: auto; 
+    margin-top: 60px; 
+    margin-bottom: 10px; 
+    border: 2px groove white;
+    box-shadow: 0px 1px 5px;
+}
+
+.contenido2 { 
+    margin: 10px; 
+}
+
+.contenido3 {
+    margin-left: 50%;
+    margin-top: -20%;
+}
+
+.Python {
+    width: 12%;
+    margin-bottom: 10px; 
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.Python:hover {
+    transform: scale(1.2);
+}
+
+.Html {
+    width: 14%;
+    margin-bottom: 10px; 
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.Html:hover {
+    transform: scale(1.2);
+}
+
+.Css {
+    width: 10%;
+    margin-bottom: 10px; 
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.Css:hover {
+    transform: scale(1.2);
+}
+
+h2 { 
+    color: #42b6ff; 
+}
+
+#pie { 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+    clear: both; 
+    background-color: rgb(235, 235, 235); 
+    width: 100%; 
+    height: 60px; 
+    border: 2px groove white; 
+    font-family: Times;
+    box-shadow: 0px 1px 5px;
+    padding-bottom: 20px;
+}
+
+.pie { 
+    text-align: center; 
+    color: rgb(88, 88, 88); 
+    
+}
+
+span:hover { 
+    color: rgb(59, 59, 59); 
+    font-weight: bold; 
+}
+
+b:hover{
+    color: #000000; 
+    font-weight: bold;
+}
+
+#margen-top { 
+    margin-top: 12px; 
+}
